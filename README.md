@@ -26,3 +26,21 @@ Dict:
 
 
 
+Key points gathered from data:
+
+Mean aggregate key points to acknowledge
+- The average household is 3.07
+- Average rooms are 5.43
+- 0.21 bedrooms per room
+
+Positive correlations between the following:
+- Higher the income / higher the housing value
+- Rooms per household/house prices (larger the house higher the price)
+- Median housing age / larger districts
+
+Weak or no correlation(no linear) between the following:
+- house price and household
+- population / longitude
+
+Negative correlation
+- bedrooms per room (more non-bedrooms per household)
