@@ -44,3 +44,16 @@ Weak or no correlation(no linear) between the following:
 
 Negative correlation
 - bedrooms per room (more non-bedrooms per household)
+
+
+Info gathered from Density graph:
+
+This density graph represents the highest amount of population in relations to housing prices and area. This could mean larger cities for more housing. Higher the deman for housing the more expensive the district. 
+
+- Highest density of housing is 100,000(MHV) / longitude of 118 & latitiude of 34
+- Second highest density is 280,000(MHV) / longitude of 122 & latitiude of 37.5
+
+Two major areas with the highest density are S.F and L.A.
+
+- Highest density closest to the ocean / ocean proximity influences housing prices and density
+- Standard of beach influences demand / demand for housing increases near ocean access
