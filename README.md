@@ -1,10 +1,13 @@
 # Project-8---Data-Processing-Machine-Learning-
 
-Complete this project by predicting housing prices in Califronia for more than 26 districts. through data processing and Machine Learning. 
+Complete this project by predicting housing prices in Califronia for more than 26 districts. Use the data to create Future Engineering for Machine Learning
 
+Machine Learning Prep:
+- Transform some features
+- Separate features and labels
+- Convert text/categorical data into numerical data
 
-
-MEthod for completion:
+Method for completion:
 
 1) Data import and inspect
 2) Data Cleaning 
@@ -57,3 +60,6 @@ Two major areas with the highest density are S.F and L.A.
 
 - Highest density closest to the ocean / ocean proximity influences housing prices and density
 - Standard of beach influences demand / demand for housing increases near ocean access
+
+
+
