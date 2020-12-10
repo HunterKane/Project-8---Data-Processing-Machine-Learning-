@@ -1,6 +1,10 @@
 # Project-8---Data-Processing-Machine-Learning-
 
-Complete this project by predicting housing prices in Califronia for more than 26 districts. Use the data to create Future Engineering for Machine Learning
+Complete this project by predicting housing prices in Califronia for more than 26 districts. 
+
+Questions to answer:
+What are the biggest factors that influence housing prices in a given area?
+
 
 Machine Learning Prep:
 - Transform some features
@@ -12,7 +16,7 @@ Method for completion:
 1) Data import and inspect
 2) Data Cleaning 
 3) Use Seaborn to represent data 
-4) Implement machine learning 
+4) Use the data to create Future Engineering for Machine Learning
 
 Dict:
 
@@ -62,4 +66,11 @@ Two major areas with the highest density are S.F and L.A.
 - Standard of beach influences demand / demand for housing increases near ocean access
 
 
+
+#Conclusion from Data: Top features thats influence housing price. 
+
+- Median income has the highest importance
+- Inland or not (location)
+- Bedrooms her household
+- Rooms per house
 
